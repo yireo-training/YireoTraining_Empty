@@ -14,7 +14,7 @@
     "skip_magento_versions": [],
     "skip_css_utils": false,
     "sequence": [],
-    "phpcs_severity": 10,
-    "phpstan_level": 1,
+    "phpcs_severity": "1",
+    "phpstan_level": "9",
     "components": []
 }
