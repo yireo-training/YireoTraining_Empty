@@ -6,3 +6,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.1] - 27 November 2026
+### Added
+- Initial release of the empty YireoTraining_Empty Magento 2 module (module.xml, registration.php, composer.json)
+- OSL-3.0 LICENSE.txt and SECURITY.md
+
